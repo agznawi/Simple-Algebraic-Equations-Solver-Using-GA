@@ -9,4 +9,4 @@ The program solves for this equations:
 - y^3 * x = 24
 - x * y * z^2 = 96
 
-but it has also been tried on different sets of equations.
+but it has also been tested using different sets of equations.
