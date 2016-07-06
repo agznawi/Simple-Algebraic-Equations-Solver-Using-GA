@@ -1,4 +1,4 @@
-# Simple-Algebraic-Equations-Solver-Using-Genetic-Algorithm
+# Simple-Algebraic-Equations-Solver-Using-GA
 
 This project is based on "Writing Text Using Genetic Algorithm", which I wrote to demonestrate the very basics of genetic algorithm. See it here: https://github.com/AGhaznawi/Writing-Text-Using-Genetic-Algorithm
 
